@@ -6,11 +6,8 @@ I extracted 1800 maches of soccer from internet through the Selenium and I used 
 Using the Selenium and BeautifulSoup was made a Web Escraping to extract 1800 maches of soccer from site [1xbet](https://1xbet.whoscored.com/)
 There's data of five different championships of 2021-2022 season:
 
-Argentina 
-Brazil
-England
-Italy
-Spain
+
+Argentina - Brazil - England - Italy - Spain
 
 # Data Processing
 
